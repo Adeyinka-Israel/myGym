@@ -54,3 +54,13 @@
 
 
 
+
+
+@media(max-width:600px){
+    #services{
+        text-align:center;
+    }
+    #services i{
+        font-size:30px;
+    }
+}
