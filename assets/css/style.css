@@ -5,6 +5,7 @@
     background-size: cover;
     position: relative;
     z-index: 1;
+    
 }
 .para-back{
     background: rgb(55, 187, 157);
@@ -39,16 +40,16 @@
 
 .bi-people{
     color: green;
-    padding-left: 100px;
+    padding-left: 20px;
     
 }
 .bi-globe2{
     color: green;
-    padding-left: 100px;
+    padding-left: 20px;
 }
 .bi-sliders{
     color: green;
-    padding-left: 100px;
+    padding-left: 20px;
 }
 
 
@@ -62,5 +63,7 @@
     }
     #services i{
         font-size:30px;
+        
     }
 }
+
